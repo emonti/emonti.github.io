@@ -1,0 +1,65 @@
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.7"
+        },
+        "key": {
+            "fingerprint": "9281c1dff5219f9c2c8f1608cb1a656fb6f8e778",
+            "host": "keybase.io",
+            "key_id": "CB1A656FB6F8E778",
+            "uid": "549577131badf859ff1c72e42debb600",
+            "username": "emonti"
+        },
+        "merkle_root": {
+            "ctime": 1402934926,
+            "hash": "f1144822866bc6afc2b5c4c65adaa5e42f0c69a9df09be22d10fc9e9ef101a77385a6adc8cc02ba38d8a67c27e6726c179628361166cf7a282683e654d81fb00",
+            "seqno": 18859
+        },
+        "service": {
+            "hostname": "human.versus.computer",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402935036,
+    "expire_in": 157680000,
+    "prev": "0616126239d687d8255d274f5917f241d34c5ae65bffe72c8a34428acaf0fb1e",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkn9QFVUUxx8IjFqIosNPR2DTsfzx3Hvf7t1dHCbAkIYmGTWdJHHdvXv3ufh4
++9i3EAhUyogDMuHElEoyaMnkmFYqUGIygZglTQMqykCpoYhOKdGI2Yxou0RT3r/2
+3v2c7znfc86u0EmOwIDOGKI3PxwqDOi8IztW10c8KqZkXSmiEosp7NGI17S/vFIu
+oRKpzaRIlvzEqenxXl0hzhx//ASziCoghl/TvRZFOxknR5UusnE7WNW8bmL4DM3W
+ogTIAwwUVWUhEFQBQ8yrANE8loGEWKTKSOUJx/GW5Cbdbz6VlRrXFDXFel2WClIs
+fnkqWs6n/cPnj/9gGYHlOOACsqSoPCuoKsAcJAxUiCwjmrZBPzEmLJFc3WtqdrW5
+xNjsIaKh6+OWsanZAGBoKLgYASKrHsm/yQpRAWAYHkIeIRkjScVQZjGDESspksRa
+iVQaI0ESFJUWZAKhAmgVC0QgKqCBxHEunpWQpGAeYxrKkotXeAlxGHIEcRBhwAkI
+8i4EAEJY5STIQ8S7CGIZhQeqPG7AT/K8ulUcb/krta9GgYaJXbbdswlrm/JzJa/T
+nku+34n1XF++SQwr2Gfopo51j42Ypi/RNm8W+Qh1IpF6k8jihJooa17FGt3/Zwss
+9KnGsLTLagwp9GkGETWbYDnE09ax85ACex0QQAAi6BIUxHMKD1lWgRyjsgLgVMgA
+xcVgVrL8yapKOGsdJBfDQF7CkkqrMiD/2eWsOiW3JenX3F7JzDcIVVoRODvIERDo
+CAkOtJfXMXXK9H832t0RNhbl0RYYe259EJnYEv5g//b5p7WO+ITknvZys6qta9ni
+W9nhMQ/DFjW+Er2rfuhooFzTMP1C83B0cMLjx+c2fBH1Zd0fvo6SuFOt7s9nia3T
+56/YmvRs38vbkq7JPdfDJ5+DXZ+Kp8W67ovz3OKanaHVIyPv3m3rquouqJu2dMsc
+j7PsTsjJX0BE8dtxPX8NzPqhh5/ddDxuZdaWxl0jp38vmX1i0s11lV/vHaq9ZFSc
+HbgcbJSP7lmdc0SafNatDdB5N8R5GW9k9f58uT+l3Ryd6skxFgy+w1yYMxebNUN9
+/f7YuNIf14Rfra5Pjnw0FpAdc75vis+ZciUjafhcdfPGDbVb0j4+v/G9xc91Vy9Y
+PywGlWV13b+d0CKMpn9Y4dg44/bojWNH8jMOdx7O5IpTdvSnp28vbCq/dvZJTsiq
+oimPk/WINKaxJq3unlayXoxuO1zf2OaIbX7pft5rB5vGBjMHD4Tui73vGTkwd+Hu
+jpLsmyfPfPPq/rWpR4/VFtZue/2QMFh1oSF76Yv0b9EhU9fN/Kl896HvdyyJvDe0
+dGt0a8r7v7KP5lSeKettDloxL68+aGZLVMmpu8lgMHNfWEx73p/+hoWDVz5Z2Z/R
+ubaymOazPzu+wn/zRM2hb5cHVaz+LvTBpb5a46uih29VU3uZ+NFVL7Ren/Hkamwv
+2xI4No27iO7dOLbkI3HtM5XPpx/8Gw==
+=n/cT
+-----END PGP MESSAGE-----
+
+
